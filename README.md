@@ -9,3 +9,5 @@ panel_iframe:
     icon: mdi:weather-pouring
     url: /local/buienalarm.html
 ```
+Result:
+https://github.com/bouwew/HA-BuienAlarm-Panel-Iframe/blob/master/HA_buienalarm.png
