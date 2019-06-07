@@ -10,4 +10,4 @@ panel_iframe:
     url: /local/buienalarm.html
 ```
 Result:
-https://github.com/bouwew/HA-BuienAlarm-Panel-Iframe/blob/master/HA_buienalarm.png
+![Screenshot](HA_buienalarm.png)
