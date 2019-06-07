@@ -11,3 +11,5 @@ panel_iframe:
 ```
 Result:
 ![Screenshot](HA_buienalarm.png)
+
+When this is done, you will see the default welcome-page. Select your city and the prediction will be shown!
